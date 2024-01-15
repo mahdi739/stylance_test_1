@@ -1,4 +1,4 @@
-set shell := ["cmd.exe", "/c"]
+# set shell := ["cmd.exe", "/c"]
 default:
   @just --list
 
